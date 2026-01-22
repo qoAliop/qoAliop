@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi there 👋
 
-<!--
-**qoAliop/qoAliop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ali, a 10th-grade student based in Turkey, passionate about Cybersecurity, Programming, and Graphic Design.
 
-Here are some ideas to get you started:
+I enjoy building and designing anything that comes to mind—whether it's a small script, a full application, or a clean visual design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Skills
+
+Programming Languages: Python, C#
+
+Web Technologies: HTML, CSS
+
+Interests: Cybersecurity, software development, and UI/UX design
+
+# 🐱 Fun Facts
+
+---> I love cats
+
+---> Hobbies: Gym, Hiking, Boxing
